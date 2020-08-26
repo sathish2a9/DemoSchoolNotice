@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo School Notice</string>
+    <string name="heading">ABC Public School Notice</string>
+    <string name="stu_id">Student ID: %s</string>
+    <string name="stu_description">Description: %s</string>
+    <string name="stu_remarks">Remarks: %s</string>
+</resources>
